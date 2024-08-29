@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "27b66dfb0d94591f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e3da2998b7c14d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a801abec1cce8d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playable Characters/Alejandro Iglesias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b05e0bdb255b813e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playable Characters/Cal Spell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "097a8beb934cab81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playable Characters/Rob Hellsing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b3665cdea9a2c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Sentence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3948780b2f08bde1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playable Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "420d3d4574d3c25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gang Folder/Piranhas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "e651df8b4a43dd23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ae1c4a9bb474b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Characters/Not Yet Introduced/Jennifer One.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4b950eba7c6c32e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba9c90da03a50102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ec00f54470a1d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c0c1faf0762fb25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cd0799bb0963734",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "be4e493cf8f295de",
+    "type": "split",
+    "children": [
+      {
+        "id": "c208144aa4b96cc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72bf828a5763406d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Important Characters/Not Yet Introduced/Jennifer One.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "243afe54e6b142c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Important Characters/Not Yet Introduced/Jennifer One.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b45acc1a612c435f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68c77dc61298e05f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Important Characters/Not Yet Introduced/Jennifer One.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ae1c4a9bb474b74",
+  "lastOpenFiles": [
+    "Cyberwear/Cosmetic/Light Tattoos.md",
+    "Important Characters/Not Yet Introduced/Jennifer One.md",
+    "Cyberwear/Cosmetic/Skinwatch.md",
+    "Cyberwear/Cosmetic",
+    "Cyberwear",
+    "Nomad Prostitution Tour.md",
+    "Gang Folder/Piranhas.md",
+    "Important Characters/Active",
+    "Important Characters/Dead",
+    "Important Characters/Referenced",
+    "Gang Folder",
+    "Important Characters/Not Yet Introduced/Save for later/Corpse Reviver.md",
+    "Important Characters/Not Yet Introduced/Save for later",
+    "Gang Folder/Gang Leaders.md",
+    "Playable Characters.md",
+    "The Sentence.md",
+    "Important Characters/Not Yet Introduced",
+    "Important Characters",
+    "Playable Characters/Alejandro Iglesias.md",
+    "Playable Characters/Rob Hellsing.md",
+    "Playable Characters/Cal Spell.md",
+    "Playable Characters",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
