@@ -8,91 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a801abec1cce8d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playable Characters/Alejandro Iglesias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b05e0bdb255b813e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playable Characters/Cal Spell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "097a8beb934cab81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playable Characters/Rob Hellsing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b3665cdea9a2c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Sentence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3948780b2f08bde1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playable Characters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "420d3d4574d3c25a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gang Folder/Piranhas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "e651df8b4a43dd23",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ae1c4a9bb474b74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Characters/Not Yet Introduced/Jennifer One.md",
+                "file": "Minor Gigs/Drug Runs.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Characters/Not Yet Introduced/Jennifer One.md",
+                "file": "Minor Gigs/Drug Runs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Characters/Not Yet Introduced/Jennifer One.md",
+                "file": "Minor Gigs/Drug Runs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Characters/Not Yet Introduced/Jennifer One.md"
+                "file": "Minor Gigs/Drug Runs.md"
               }
             }
           }
@@ -225,30 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ae1c4a9bb474b74",
+  "active": "4b3665cdea9a2c30",
   "lastOpenFiles": [
-    "Cyberwear/Cosmetic/Light Tattoos.md",
+    "Nomad Prostitution Tour.md",
+    "Minor Gigs/Drug Runs.md",
+    "Minor Gigs/Drug Run/Untitled.md",
+    "Minor Gigs/Drug Run",
+    "Minor Gigs",
+    "The Sentence.md",
+    "Playable Characters.md",
+    "Gang Folder/Piranhas.md",
+    "Gang Folder/Maelstrom.md",
+    "Gang Folder/Gang Leaders.md",
+    "Bands/Active/The Pissed Sex Dolls.md",
+    "Bands/Band List.md",
+    "Playable Characters/Alejandro Iglesias.md",
+    "Playable Characters/Cal Spell.md",
+    "Playable Characters/Rob Hellsing.md",
     "Important Characters/Not Yet Introduced/Jennifer One.md",
+    "Bands/Active",
+    "Bands",
+    "Cyberwear/Cosmetic/Light Tattoos.md",
     "Cyberwear/Cosmetic/Skinwatch.md",
     "Cyberwear/Cosmetic",
     "Cyberwear",
-    "Nomad Prostitution Tour.md",
-    "Gang Folder/Piranhas.md",
     "Important Characters/Active",
     "Important Characters/Dead",
     "Important Characters/Referenced",
     "Gang Folder",
     "Important Characters/Not Yet Introduced/Save for later/Corpse Reviver.md",
-    "Important Characters/Not Yet Introduced/Save for later",
-    "Gang Folder/Gang Leaders.md",
-    "Playable Characters.md",
-    "The Sentence.md",
-    "Important Characters/Not Yet Introduced",
-    "Important Characters",
-    "Playable Characters/Alejandro Iglesias.md",
-    "Playable Characters/Rob Hellsing.md",
-    "Playable Characters/Cal Spell.md",
-    "Playable Characters",
     "create a link.md",
     "Welcome.md"
   ]

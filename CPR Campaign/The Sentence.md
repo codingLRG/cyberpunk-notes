@@ -3,7 +3,7 @@
 ---
 # Spitball Ideas
 ## Nomad Prostitution Tour
-*"==**Rival Nomad Group funded by Arasaka==** wants to achieve ==**a new round of integrating human trafficked snuff workers**== within ==**the next 2 weeks**== and they're having difficulty achieving that because of ==**the party's hatred ties to the ring leader**=="*
+*"==**Rival Nomad Group funded by Arasaka==** wants to achieve ==**a new round of integrating human trafficked snuff workers**== within ==**the next 2 months**== and they're having difficulty achieving that because of ==**the party's hatred ties to the ring leader**=="*
 
 
 
