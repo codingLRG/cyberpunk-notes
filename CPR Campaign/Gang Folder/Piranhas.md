@@ -2,8 +2,7 @@
 tags:
   - gang
   - piranhas
-aliases:
-  - the piranhas
+aliases: []
 ---
 ## Common Knowledge
 Main Leader: [[Corpse Reviver]]

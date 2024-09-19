@@ -2,9 +2,11 @@
 tags:
   - fixer
   - piranhas
+  - friendly
 aliases:
   - Juno
 ---
+![[Juno (v2 43).png]]
 Lvl 6 Fixer
 
 ## Description
