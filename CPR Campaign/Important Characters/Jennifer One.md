@@ -36,3 +36,6 @@ Affiliation: [[Piranhas]]
 
 Connection with Rock Tour scene, able to be the first footstool to getting signed.
 
+Early fixer for [[Rob Hellsing]] and [[Alejandro Iglesias]]
+
+

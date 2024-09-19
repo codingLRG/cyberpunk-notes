@@ -5,6 +5,11 @@ tags:
   - rockerboy
   - pcs
 ---
+## Notable Moments
+- Meets [[Cal Spell|24]] and introduces him to [[Jennifer One|Juno]]
+- 
+- 
+
 ---
 Your Original Family Background:
 Urban Homeless. You lived in cars, dumpsters, or abandoned shipping modules. If you were lucky. You were usually hungry, cold, and scared, unless you were tough enough to fight for the scraps. Education? School of Hard Knocks.
